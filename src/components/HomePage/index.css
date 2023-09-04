@@ -1,0 +1,90 @@
+.homepage-container {
+  width: 1512px;
+  height: 969px;
+  flex-shrink: 0;
+  background: rgba(248, 241, 211, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-left: 80px;
+}
+
+.home-left-container {
+  padding-left: 10px;
+}
+
+.home-para-1 {
+  color: #1f2027;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 60%;
+}
+
+.home-heading-1 {
+  color: #1f2027;
+  font-family: 'Roboto';
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 110%;
+}
+
+.home-heading-2 {
+  color: #1f2027;
+  font-family: 'Roboto';
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 60%;
+}
+
+.home-para-2 {
+  color: #505c59;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  width: 636px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  gap: 50px;
+}
+
+.home-sign-button {
+  display: flex;
+  padding: 16px 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  background: #f27a44;
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  border: none;
+}
+
+.home-boy-image {
+  width: 820px;
+  height: 730.806px;
+  flex-shrink: 0;
+}
+
+.image-ellipse {
+  width: 541px;
+  height: 541px;
+  flex-shrink: 0;
+  border-radius: 541px;
+  background: #87cc81;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.boy-image {
+  width: 580px;
+  height: 690px;
+}
